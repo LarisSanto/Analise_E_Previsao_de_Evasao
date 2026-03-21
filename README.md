@@ -3,9 +3,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=2F2F2F&height=120&section=header" alt="Capa animada superior" width="1000" />
 </p> 
 
-# Análise e Previsão de Evasão de Clientes.
+# Análise e Previsão de Evasão de Clientes (Churn)
 
-Este projeto simula um cenário real de negócio em uma empresa de telecomunicações que enfrenta alto índice de evasão de clientes (churn).
+Este projeto simula um cenário real de negócio em uma empresa de telecomunicações que enfrenta alto índice de evasão de clientes (churn), impactando diretamente sua receita.
 
 A análise foi dividida em duas etapas complementares:
 
@@ -37,7 +37,7 @@ A empresa enfrenta dificuldades na retenção de clientes, impactando diretament
 
 
 ### Solução Desenvolvida
-O projeto foi estruturado em duas etapas principais:
+O projeto foi estruturado em duas etapas complementares:
 - Tratamento e preparação dos dados (ETL)  
 - Análise exploratória (EDA)  
 - Modelagem preditiva com Machine Learning  
@@ -121,8 +121,8 @@ A análise permite:
 ### Conclusão
 
 Clientes com contratos curtos, altos custos mensais e menor engajamento apresentam maior risco de evasão.
-
 O uso de modelos preditivos permite identificar esses clientes antecipadamente e agir de forma estratégica.
+Este projeto demonstra um pipeline completo de dados, desde a análise exploratória até a aplicação de modelos de Machine Learning voltados ao negócio.
 
 
 ### Tecnologias Utilizadas
@@ -138,8 +138,12 @@ O uso de modelos preditivos permite identificar esses clientes antecipadamente e
 
 ### Acesse o Projeto
 
-- 📎 Google Colab Parte 01: https://colab.research.google.com/drive/12JeMfRMwMzKb8XBHdacxGDFqE4xx3Ywn  
-- 📎 Google Colab Parte 02: https://colab.research.google.com/drive/16nhSM7EcqxJFzLX26P4-Hso0U1PRZT-C  
+-  Google Colab Parte 01: https://colab.research.google.com/drive/12JeMfRMwMzKb8XBHdacxGDFqE4xx3Ywn  
+-  Google Colab Parte 02: https://colab.research.google.com/drive/16nhSM7EcqxJFzLX26P4-Hso0U1PRZT-C
+
+-  Repositório Parte 01: https://github.com/LarisSanto/TelecomX.git
+-  Repositório Parte 02: https://github.com/LarisSanto/TelecomX_Part2.git  
+
 
 <br>
 <br>
