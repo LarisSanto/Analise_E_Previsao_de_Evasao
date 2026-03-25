@@ -133,7 +133,7 @@ Este projeto demonstra um pipeline completo de dados, desde a an√°lise explorat√
 - Scikit-Learn  
 - Matplotlib  
 - Seaborn  
-- Jupyter Notebook / Google Colab  
+- Jupyter Notebook / Google Colab
 
 
 ### Acesse o Projeto
